@@ -1,0 +1,22 @@
+/*-----Fonts/Colors---------
+
+    font-family: 'Lora', serif;
+    font-family: 'Indie Flower', cursive;
+
+*/
+body {
+  background: linear-gradient(to right, blue, purple);
+}
+.container {
+  text-align: center;
+
+}
+h1 {
+  font-family: 'Lora', serif;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: 'Indie Flower', cursive;
+  font-weight: 600;
+}
